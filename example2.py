@@ -2,7 +2,7 @@
 # same program, better use of variables!
 import tkinter as tk
 import tkinter as tk
-import  playsound(playsound playsound
+import  playsound as (playsound playsound
 
 # pip install playsound
 
